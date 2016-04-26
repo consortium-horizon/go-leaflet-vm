@@ -32,4 +32,5 @@ export GOPATH=/home/vagrant/go
 
 # go dependencies
 go get github.com/gin-gonic/gin
+go get github.com/peterbourgon/diskv
 chmod -R 777 /home/vagrant/go
