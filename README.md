@@ -16,7 +16,7 @@ This project automates the setup of a Go development environment and checkout la
 
 Building the virtual machine is this easy:
 
-    host $ git clone https://github.com/consortium-horizon/vm-leaflet.git
+    host $ git clone https://github.com/consortium-horizon/go-leaflet-vm.git
     host $ cd vm-leaflet
     host $ vagrant up --provision
 
